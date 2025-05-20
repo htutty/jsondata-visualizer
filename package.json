@@ -1,0 +1,14 @@
+{
+  "name": "json-visualizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jsondata2puml.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-visualizer": "file:"
+  }
+}
